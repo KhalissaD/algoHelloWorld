@@ -1,0 +1,8 @@
+HelloWorld
+
+firstWord: string
+secondWorld: string
+
+firtstWord <- "Hello"
+secondWord <- "World"
+
